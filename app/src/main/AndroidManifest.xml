@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.musicplayer">
+    package="com.deepsekharghoshmusicplayer.musicplayer">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
@@ -13,11 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MusicPlayer">
         <activity
-            android:name=".Playsong"
+            android:name="com.deepsekharghoshmusicplayer.musicplayer.Playsong"
             android:exported="true"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="com.deepsekharghoshmusicplayer.musicplayer.MainActivity"/>
         <activity
-            android:name=".MainActivity"
+            android:name="com.deepsekharghoshmusicplayer.musicplayer.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

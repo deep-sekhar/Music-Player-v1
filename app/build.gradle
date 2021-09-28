@@ -6,7 +6,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.example.musicplayer"
+        applicationId "com.deepsekharghoshmusicplayer.musicplayer"
         minSdk 21
         targetSdk 30
         versionCode 1
