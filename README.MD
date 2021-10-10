@@ -1,8 +1,6 @@
 # Music-Player-v1
 
-## Avialable on PlayStore
-  
-![Logo](https://github.com/deep-sekhar/Bit-Chat-V2.0/blob/main/client/src/images/newlogo1.png?raw=true)
+![Logo](https://github.com/deep-sekhar/Music-Player-v1/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true)
 
 ## Authors
 
@@ -18,4 +16,8 @@
 
 To run it on your system , fork it.
 Then pull it after setting remote origin.
+
+## Available on PlayStore
+  
+[![Music Player](https://github.com/deep-sekhar/Music-Player-v1/blob/main/playstore.png?raw=true)](https://play.google.com/store/apps/details?id=com.deepsekharghoshmusicplayer.musicplayer)
 
